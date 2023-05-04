@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        ".angular": true,
+        ".idea": true,
+        ".vscode": true,
+        "**/dist": true,
+        "**/node_modules": true
+    },
+    "editor.scrollBeyondLastLine": false,
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme",
+    "editor.lineHeight": 1.7,
+    "editor.codeActionsOnSave": {},
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": false,
+    "editor.fontSize": 13,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
