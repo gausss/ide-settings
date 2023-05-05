@@ -15,5 +15,15 @@
     "editor.fontSize": 13,
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "editor.bracketPairColorization.enabled": false,
+    "editor.guides.bracketPairs": "active",
+    "telemetry.telemetryLevel": "off",
+    "breadcrumbs.enabled": false,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "editor.minimap.enabled": false,
+    "workbench.productIconTheme": "fluent-icons",
+    "window.commandCenter": true,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Default Dark+",
 }
